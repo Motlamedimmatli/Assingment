@@ -1,8 +1,4 @@
 
-
-
-
-
 		h6{
 			float:left;
 			font-size:10px;
@@ -48,7 +44,7 @@
 				margin-right:70px;
 				}
 		header nav ul li{
-				display:flex;
+				display:inline-block;
 				line-height:70px;
 				margin:0 100px;
 				
@@ -69,7 +65,6 @@
 				margin-left:2px;
 				}
 			body{
-				
 				background-color:black;
 				}
 			footer{
